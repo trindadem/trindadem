@@ -1,31 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=180&section=header&text=Matheus%20Trindade&fontColor=e2e8f0&fontSize=52&fontAlignY=34&desc=Software%20Architect%20·%20Product%20Engineer%20·%20Business%20Operator&descAlignY=56&descSize=16" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img src="./assets/header-dark.svg" alt="Matheus Trindade — Software Architect, Product Engineer, Business Operator" width="100%">
+</picture>
 
 <br/>
 
 **I design and deploy scalable software systems, high-throughput engines, and cloud infrastructures**  
-**while driving business strategy, growth, and operations.**
+**while driving business strategy, growth, and operations.**  
 
 *Bridging the gap between deep technical execution and commercial leverage.*
 
 <br/>
 
-[![Studio](https://img.shields.io/badge/Live_Studio-studio.forjelo.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://studio.forjelo.com)
-[![GitHub Org](https://img.shields.io/badge/Organization-@forjelo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/forjelo)
-[![PyPI](https://img.shields.io/badge/PyPI-fabbro_·_forje--cloud-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/fabbro)
+<a href="https://www.linkedin.com/in/teu-trindade/">
+  <img src="https://img.shields.io/badge/LinkedIn-teu--trindade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:matheusrodriguestrindade3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://pypi.org/user/teutrindade/">
+  <img src="https://img.shields.io/badge/PyPI-fabbro_·_forje--cloud-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI">
+</a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 `Determinism Over Chaos` · `Zero-Bloat Execution` · `Business-Driven Code`
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+  <img src="./assets/divider-dark.svg" alt="" width="100%">
+</picture>
 
----
+</div>
 
 ## ⚡ Built & Shipped
 
@@ -37,7 +47,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 [Forje Studio](https://studio.forjelo.com)
+### 🎨 Forje Studio
 Zero-backend, 100% client-side design & motion editor powered purely by HTML/CSS/JS *(vanilla-first architecture)*.
 
 `MP4` `PDF` `HTML` `PPTX` `PNG`
@@ -45,7 +55,7 @@ Zero-backend, 100% client-side design & motion editor powered purely by HTML/CSS
 </td>
 <td width="50%" valign="top">
 
-### 📦 [Base](https://github.com/forjelo/base)
+### 📦 Base
 Deterministic orchestration engine engineered for high-density generative distribution.
 
 `Orchestration` `Deterministic`
@@ -73,22 +83,12 @@ Lightweight CLI tool for managing cloud deployments and infrastructure resources
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ Forjelo Platform
-Internal management engine and orchestrator for ecosystem services.
-
-`Core` `Internal`
-
-</td>
-<td width="50%" valign="top">
-
 ### ⚡ Stithy
 Low-level code structuring and compilation module.
 
 `Low-Level` `Compilation`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🎯 LeadPull
@@ -97,6 +97,8 @@ High-performance lead prospecting & outreach micro-SaaS. Scrapes targeted query 
 `micro-SaaS` `AI Outreach`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💼 Attendro
@@ -105,10 +107,22 @@ All-in-one business management platform featuring AI-driven customer service, au
 `SaaS` `Payments` `AI`
 
 </td>
+<td width="50%" valign="top">
+
+<br/>
+<div align="center"><sub><i>More systems in the forge.</i></sub></div>
+
+</td>
 </tr>
 </table>
 
----
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+  <img src="./assets/divider-dark.svg" alt="" width="100%">
+</picture>
+</div>
 
 ## 💼 Business Strategy, Management & Growth
 
@@ -149,21 +163,27 @@ Design Thinking · User Experience (UX) · Interface Architecture (UI) · Design
 </tr>
 </table>
 
----
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+  <img src="./assets/divider-dark.svg" alt="" width="100%">
+</picture>
+</div>
 
 ## 🛠️ Technical Stack & Engineering Capabilities
 
 ### 🧬 Core Languages & Runtimes
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
 </p>
 
 > **Languages:** Python, JavaScript (ES6+), HTML5, CSS3, C (Hardware & OS Control)  
@@ -182,12 +202,12 @@ Design Thinking · User Experience (UX) · Interface Architecture (UI) · Design
 ### ☁️ Cloud, Infrastructure & Edge Layer
 
 <p>
-<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Swarm">
+<img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
 </p>
 
 > **OS & Environment:** Debian, Ubuntu, Linux/UNIX System Administration & Shell Scripting (`.sh`)  
@@ -209,7 +229,13 @@ Design Thinking · User Experience (UX) · Interface Architecture (UI) · Design
 > **Architectures:** REST APIs (OpenAPI/Swagger via FastAPI), PWA Apps, Desktop Applications, CLI Tools, Python Packages  
 > **Frontend & Experience:** Custom Web Engines, Full-Stack Web Development, Proprietary Design Systems, Deep UI/UX Engineering
 
----
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+  <img src="./assets/divider-dark.svg" alt="" width="100%">
+</picture>
+</div>
 
 ## 💡 Core Philosophy
 
@@ -239,7 +265,13 @@ Design Thinking · User Experience (UX) · Interface Architecture (UI) · Design
 </tr>
 </table>
 
----
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+  <img src="./assets/divider-dark.svg" alt="" width="100%">
+</picture>
+</div>
 
 <div align="center">
 
@@ -249,16 +281,26 @@ Design Thinking · User Experience (UX) · Interface Architecture (UI) · Design
 
 <br/>
 
-[![Web Studio](https://img.shields.io/badge/🌐_Live_Web_Studio-studio.forjelo.com-0f172a?style=for-the-badge)](https://studio.forjelo.com)
-[![GitHub](https://img.shields.io/badge/🏢_Organization-@forjelo-181717?style=for-the-badge)](https://github.com/forjelo)
-[![LinkedIn](https://img.shields.io/badge/💬_Reach_Out-LinkedIn_·_Email-0A66C2?style=for-the-badge)](https://linkedin.com)
+<a href="https://www.linkedin.com/in/teu-trindade/">
+  <img src="https://img.shields.io/badge/LinkedIn-teu--trindade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:matheusrodriguestrindade3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-matheusrodriguestrindade3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://pypi.org/user/teutrindade/">
+  <img src="https://img.shields.io/badge/PyPI-Published_Packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI">
+</a>
 
-<br/>
+<br/><br/>
 
 > ### *"Building systems at the intersection of deep tech, strategic design, and business performance."*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=120&section=footer" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
+  <img src="./assets/footer-dark.svg" alt="" width="100%">
+</picture>
 
 </div>
